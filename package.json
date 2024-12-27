@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "handlebars-helper": "^0.0.12",
     "handlebars-helpers": "^0.10.0",
     "hbs": "^4.2.0",
     "mysql2": "^3.12.0",
